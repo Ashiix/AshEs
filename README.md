@@ -1,2 +1,2 @@
 # AshEs | Ashiix's Java Essentials
-A collection of complex Java code, simplified
+A collection of common complex Java code, simplified
